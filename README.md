@@ -20,5 +20,4 @@ This project focuses on detecting fake news using a comprehensive data science p
   + Bi LSTM 25 units
     ![Alt text](images/bilstm25.png)
   + Longformer
-- Reports:
-    ![Alt text](images/report.png)
+- Reports: ![Alt text](images/report.png)
